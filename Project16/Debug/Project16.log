@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project16.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\user\source\repos\архив\project16\source.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(28): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\user\source\repos\архив\project16\source.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(78): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\архив\project16\source.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\архив\project16\source.cpp(142): warning C4018: >: несоответствие типов со знаком и без знака
+  Project16.vcxproj -> C:\Users\user\source\repos\архив\Debug\Лаба с архиватором.exe
